@@ -35,8 +35,6 @@ Smart-Attendance-System/
 ## 📸 Output
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b33b62d-7d15-4215-b88a-3c76a6554677" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/75d68ee7-a973-4629-a4dc-2902ad130b66" />
-
-
-
 ## 👤 Author
-Your Name
+Galhe Vaibhavi
+
